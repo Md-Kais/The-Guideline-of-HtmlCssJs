@@ -60,7 +60,10 @@ To create a website, you have crystal clear idea about these following concepts.
     - `<em>` and `<strong>` for emphasis and strong emphasis.
     
     ```html
-    <p>This is a paragraph of text. It can contain <em>emphasized</em> or <strong>strongly emphasized</strong> text.</p>
+    <p>This is a paragraph of text. It can contain
+        <em>emphasized</em> or
+        <strong>strongly emphasized</strong>
+    text.</p>
     ```
     
 3. **Lists:**
