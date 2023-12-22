@@ -362,3 +362,6 @@ https://github.com/Md-Kais/CUERS-New
 For some security reasons we can’t share server code.
 
 This code is the result of 4 months of hard work and 1.5 years of learning, don’t look this code and burn your head afterwards.
+And don’t take too much time to learn HTML,CSS,JS. these are basics, You must learn any framework/library in order to complete this project.
+
+GOOD LUCK.
